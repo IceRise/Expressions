@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionGenerator", "ExpressionGenerator\ExpressionGenerator.csproj", "{C04F8BF5-F0D3-4BB0-89A3-AFD4038DC207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionGenerator.Tests", "ExpressionGenerator.Tests\ExpressionGenerator.Tests.csproj", "{48E3500C-1C47-45D5-8A31-C6D7134519CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C04F8BF5-F0D3-4BB0-89A3-AFD4038DC207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C04F8BF5-F0D3-4BB0-89A3-AFD4038DC207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C04F8BF5-F0D3-4BB0-89A3-AFD4038DC207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C04F8BF5-F0D3-4BB0-89A3-AFD4038DC207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E3500C-1C47-45D5-8A31-C6D7134519CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E3500C-1C47-45D5-8A31-C6D7134519CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E3500C-1C47-45D5-8A31-C6D7134519CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E3500C-1C47-45D5-8A31-C6D7134519CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3666915B-4354-4CB8-B256-2DCA032D2D7C}
+	EndGlobalSection
+EndGlobal
